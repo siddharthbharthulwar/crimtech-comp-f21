@@ -16,3 +16,5 @@ If at any point you have any questions or concerns, let Olivia (olivia.wenzel@th
 9/19 - Week 0: Introduction
 
 We will provided an updated schedule soon!
+
+**Playlist**: COMING SOON!

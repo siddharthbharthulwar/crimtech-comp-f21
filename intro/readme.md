@@ -1,7 +1,7 @@
 # Project 1: Intro
 
 ## Welcome to GitHub!
-GitHub's pretty cool, and without it [thecrimson.com](https://www.thecrimson.com/) might not even exist as we know it. The first thing you should do is [make an account](https://github.com/join) (if you haven't already); having an account will allow you to a) work on the projects and b) contribute to the Crimson's codebase later on when you graduate from this comp.
+GitHub is pretty cool, and without it [thecrimson.com](https://www.thecrimson.com/) might not even exist as we know it. The first thing you should do is [make an account](https://github.com/join) (if you haven't already); having an account will allow you to a) work on the projects and b) contribute to the Crimson's codebase later on when you graduate from this comp.
 
 ### Adding an SSH key
 The first step to using GitHub is to add an ssh key to your account. If you don't know or remember what an ssh key is, follow the instructions below.
@@ -68,4 +68,4 @@ Once that's done, you are done! Congratulations on finishing your first lab! Tha
 ## Extra Resources
 Not familiar with Git? We recommend checking out one or both of the following. If you pursue programming, you will NEED to understand at least the basics of Git, trust us!!!
 * CS61's [written introduction to Git](https://cs61.seas.harvard.edu/site/ref/git/)
-* CS50's [video introduction to Git](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+* CS50's [video introduction to Git](https://www.youtube.com/watch?v=NcoBAfJ6l2Q)
